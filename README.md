@@ -1,16 +1,12 @@
-## Hi there 👋
-
+CAFE BABE
+### Oi, me chamo Miguel!
+- 🤓 Gosto tanto de desenvolvimento web quanto de games
+- 🌱 Estudando Scala
+- ☕ Java and Scala developer
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel-Peixoto-Portela-Bispo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical&locale=pt-br)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Peixoto-Portela-Bispo)
 <!--
-**migke-8/migke-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    IT'S A SECRET TO EVERYBODY
+            🔥  🐗  🔥
+                💎 
+               <a>
 -->
